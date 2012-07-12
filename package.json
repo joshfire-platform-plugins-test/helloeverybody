@@ -1,0 +1,22 @@
+{
+  "name": "helloeverybody",
+  "fullName": "Hello everybody!",
+  "version": "0.0.1",
+  "keywords": [
+    "debug",
+    "hello",
+    "hi"
+  ],
+  "description": "An add-on that says \"Hello\" to everybody",
+  "joshfire": {
+    "images": {
+      "small": "marketing/image-small.png",
+      "big": "marketing/image-small.png"
+    },
+    "hooks": [
+      "list",
+      "item"
+    ],
+    "options": {}
+  }
+}
